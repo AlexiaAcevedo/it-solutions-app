@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/it-solutions-app/static/css/main.d7da34c1.css",
+    "main.js": "/it-solutions-app/static/js/main.49f549e8.js",
+    "static/media/video.mp4": "/it-solutions-app/static/media/video.b5e90c43b8ff60ba4427.mp4",
+    "static/media/services2.svg": "/it-solutions-app/static/media/services2.30e0124d1622cd2cb655984bea0b6e1f.svg",
+    "static/media/services1.svg": "/it-solutions-app/static/media/services1.768072fb163a1f365fb5d27794c5503e.svg",
+    "static/media/about.svg": "/it-solutions-app/static/media/about.c16bd4c3a92786c321f1fc6c89c7e90d.svg",
+    "static/media/services3.svg": "/it-solutions-app/static/media/services3.165474cbe25aaeb39c1b98968080c9cc.svg",
+    "static/media/logo.svg": "/it-solutions-app/static/media/logo.c03f4e7a8219d33df6773e89d657f0d5.svg",
+    "index.html": "/it-solutions-app/index.html",
+    "main.d7da34c1.css.map": "/it-solutions-app/static/css/main.d7da34c1.css.map",
+    "main.49f549e8.js.map": "/it-solutions-app/static/js/main.49f549e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.49f549e8.js"
+  ]
+}
