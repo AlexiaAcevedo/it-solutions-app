@@ -34,7 +34,7 @@ const Apply = () => {
             email: email,
             opening_id: id
         };
-        await axios.post("http://localhost:5000/add", formData)
+        await axios.post(`${process.env.REACT_APP_SERVER_BASE_URL}/add`, formData)
         .then(() => {
             setSuccessful(true);
             setTimeout(() => navigate("/"), 3000);

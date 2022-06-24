@@ -11,7 +11,8 @@ const Careers = () => {
 
     useEffect(() => {
         const fetchOpenings = async () => {
-            const res = await axios.get("http://localhost:5000/openings")
+            const res = await axios.get(`${process.env.REACT_APP_SERVER_BASE_URL}/openings`)
+            console.log(`${process.env.REACT_APP_SERVER_BASE_URL}`)
             setData(res.data)
         };
         fetchOpenings()
